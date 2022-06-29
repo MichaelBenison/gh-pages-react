@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MichaelBenison/gh-pages-react/settings/pages/static/css/main.073c9b0a.css",
+    "main.js": "/MichaelBenison/gh-pages-react/settings/pages/static/js/main.365ba6de.js",
+    "static/js/787.d7239063.chunk.js": "/MichaelBenison/gh-pages-react/settings/pages/static/js/787.d7239063.chunk.js",
+    "static/media/logo.svg": "/MichaelBenison/gh-pages-react/settings/pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MichaelBenison/gh-pages-react/settings/pages/index.html",
+    "main.073c9b0a.css.map": "/MichaelBenison/gh-pages-react/settings/pages/static/css/main.073c9b0a.css.map",
+    "main.365ba6de.js.map": "/MichaelBenison/gh-pages-react/settings/pages/static/js/main.365ba6de.js.map",
+    "787.d7239063.chunk.js.map": "/MichaelBenison/gh-pages-react/settings/pages/static/js/787.d7239063.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.365ba6de.js"
+  ]
+}
